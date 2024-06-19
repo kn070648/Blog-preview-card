@@ -8,14 +8,14 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-- [Demo](#demo)
+    - [Demo](#demo)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -28,6 +28,11 @@ Users should be able to:
 # Demo
 
 ![](./blog_preview_card.gif)
+
+### Links
+
+- Live Site URL: [https://kn070648.github.io/Blog-preview-card/]
+
 
 ## My process
 
